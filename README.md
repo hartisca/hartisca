@@ -1,7 +1,8 @@
 <div align="center">
   <h1 align="center"> Hi there👋 I'm Héctor! </h1>
+  <img src="https://imgur.com/RJZh2Bj.png">
 </div>
-<img src="https://imgur.com/a/bVTLpG2">
+
 <!--
 **hartisca/hartisca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
