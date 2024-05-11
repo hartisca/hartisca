@@ -2,7 +2,6 @@
   <h1 align="center"> Hi there👋 I'm Héctor! </h1>
   <img src="https://imgur.com/RJZh2Bj.png">
 </div>
-<br>
 
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 <div>
@@ -12,7 +11,7 @@
   🤔  &nbsp;I’m currently open for a new job opportunity.
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠 &nbsp;Languages and Tools:</h3>
 <br>
 <div display="flex" align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-0D1117?logo=HTML5">&nbsp;
@@ -35,7 +34,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/VsCode-0D1117?logo=visual-studio-code&logoColor=007ACC">&nbsp;
 </div>
 
-<h3>My Activities</h3>
+<h3>⚙️ &nbsp;My Activities</h3>
+<br>
 <div align="center">
   <a href="https://github.com/hartisca"> 
      <img width=450 height=170 align="center" alt="hartisca" src="https://github-readme-stats.vercel.app/api?username=hartisca&theme=radical&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true">
@@ -44,8 +44,3 @@
     <img align="center" alt="hartisca" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hartisca&theme=radical&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
-   
-
-
-
-
