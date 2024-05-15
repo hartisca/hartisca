@@ -21,8 +21,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-0D1117?logo=node.js">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/React-0D1117?logo=react">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-0D1117?logo=python">&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Django-0D1117?logo=django">&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-0D1117?logo=php">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-0D1117?logo=php">&nbsp;  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-0D1117?logo=laravel">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/Astro-0D1117?logo=astro">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-0D1117?logo=mysql">&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/PostreSQL-0D1117?logo=postgresql">&nbsp;
